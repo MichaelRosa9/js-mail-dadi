@@ -12,5 +12,5 @@ if(player1 > npc){
 } else if(npc > player1){
   console.log("You loose!")
 }else{
-  console.log("Pari")
+  console.log("It's a tie!")
 }
