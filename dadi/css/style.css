@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgb(149, 219, 221);
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.box {
+  height: 600px;
+  width: 600px;
+  margin: auto;
+  border-radius: 30px;
+  background-color: #fff;
+  box-shadow: 1px 1px 1px black;
+}
